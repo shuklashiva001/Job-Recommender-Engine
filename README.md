@@ -1,5 +1,5 @@
 # Job-Recommender-Engine
-This applcation solves the problem for visiting many sites for the searching of jobs and wasting time for your suitable  job.
+This applcation solves the problem for visiting many sites for the searching of jobs and wasting time for finding suitable  job.
 
 It collect the jobs from different websites and suggest you a job according to your skill set provided or extracted from your resume.
 
